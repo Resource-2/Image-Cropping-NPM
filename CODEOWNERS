@@ -1,0 +1,6 @@
+# This section defines code owners for the entire repository.
+# These users will be automatically assigned as reviewers for any PR.
+*        @yashht
+
+# This assigns specific users to review changes in the README.md file.
+README.md  @yashht

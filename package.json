@@ -1,0 +1,47 @@
+{
+  "name": "multiple-image-crop-react",
+  "version": "1.0.3",
+  "description": "multiple image cropping",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimblechapps/Image-Cropping-NPM"
+  },
+  "author": "Nimblechapps",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
+    "@types/normalize-wheel": "^1.0.4",
+    "@types/react-slick": "^0.23.13",
+    "babel-loader": "^8.3.0",
+    "css-loader": "^3.3.0",
+    "file-loader": "^6.2.0",
+    "globals": "^15.9.0",
+    "style-loader": "^1.0.1",
+    "ts-loader": "^8.4.0",
+    "typescript": "^5.5.4",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "homepage": "https://github.com/nimblechapps/Image-Cropping-NPM",
+  "keywords": [
+    "react",
+    "image cropping",
+    "multiple images",
+    "image editor"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-easy-crop": "^5.0.7",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
